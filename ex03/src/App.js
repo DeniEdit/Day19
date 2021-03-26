@@ -1,1 +1,0 @@
-ReactDOM.redner(<App />, document.getElementById('root'));
